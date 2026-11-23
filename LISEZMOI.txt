@@ -1,0 +1,6 @@
+La Marée Silencieuse — le wiki des joueurs (campagne Deathwatch)
+
+En ligne : index.html (copie de deathwatch-la-maree-silencieuse.html), publié par GitHub Pages.
+
+Pour tout régénérer : Outils/wiki_joueurs.py, puis recopier le fichier dans index.html.
+Attention, cela écrase les modifications faites à la main dans le wiki.
